@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swanhanan
+- 👋 Hi, I’m Hanan
 - 👀 I’m interested in Data Science and Machine learning
 - 🌱 I’m currently learning about data science applications in finance
 - 💞️ I’m looking to collaborate on Kaggle projects or any Data science projects
