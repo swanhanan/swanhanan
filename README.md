@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hanan
-- 👀 I’m interested in Data Science and Machine learning
-- 🌱 I’m currently learning about data science applications in finance
-- 💞️ I’m looking to collaborate on Kaggle projects or any Data science projects
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning about Javascript
 - 📫 elhihi.hanane@yahoo.com
 
 <!---
